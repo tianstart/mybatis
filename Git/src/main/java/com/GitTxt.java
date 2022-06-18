@@ -8,5 +8,6 @@ public class GitTxt {
         System.out.println("主分支第二次提交");
         System.out.println("666");
 
+        System.out.println("test1");
     }
 }
