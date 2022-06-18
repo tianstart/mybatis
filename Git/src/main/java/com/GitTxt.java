@@ -9,6 +9,6 @@ public class GitTxt {
         System.out.println("666");
 
         System.out.println("test1");
-        kkjljlkj
+
     }
 }
